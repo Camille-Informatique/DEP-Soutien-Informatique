@@ -33,7 +33,7 @@ Ce projet reflète ma volonté de documenter mes apprentissages et de partager m
 
 ## 👀 Aperçu
 
-> 👉 *À ouvrir dans un navigateur :*   
+> 👉 *À ouvrir dans un navigateur :*    
 > L’interface est adaptée à un affichage desktop 📺  
 > Aucune donnée n'est collectée — ce projet est purement informatif.
 
